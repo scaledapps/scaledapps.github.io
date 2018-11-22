@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.c8a76ef474f0178a1309eb7784069fb0.js");
+importScripts("/precache-manifest.bcc308f757fc0d6731dca1385dc40d13.js");
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js');
 
@@ -39,11 +39,6 @@ workbox.routing.registerRoute(
 
 workbox.routing.registerRoute(
   'https://pwademo.github.io/items',
-  workbox.strategies.networkFirst()
-)
-
-workbox.routing.registerRoute(
-  'https://pwademo.github.io/items/af',
   workbox.strategies.networkFirst()
 )
 

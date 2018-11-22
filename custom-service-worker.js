@@ -13,7 +13,7 @@ const bgSyncPlugin = new workbox.backgroundSync.Plugin('todoQueue', {
 });
 
 workbox.routing.registerRoute(
-  /\.(?:js|css|html)$/,
+  /\.(?:js|css|html|json)$/,
   workbox.strategies.networkFirst()
 )
 

@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/static/css/main.e92a5c31.css"
   },
   {
-    "revision": "772e53f1b63347f3606c43cdfa04b3c6",
+    "revision": "0ab36d033cfcc60644ffbaccf689951b",
     "url": "/index.html"
   },
   {

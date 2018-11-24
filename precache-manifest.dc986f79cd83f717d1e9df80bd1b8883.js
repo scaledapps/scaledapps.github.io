@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/static/media/loader.f4404720.gif"
   },
   {
-    "revision": "de74fc28272539d6333e",
-    "url": "/static/js/main.de74fc28.js"
+    "revision": "71b2125af4230a1b6f50",
+    "url": "/static/js/main.71b2125a.js"
   },
   {
-    "revision": "de74fc28272539d6333e",
+    "revision": "71b2125af4230a1b6f50",
     "url": "/static/css/main.e92a5c31.css"
   },
   {
-    "revision": "0ab36d033cfcc60644ffbaccf689951b",
+    "revision": "4383cf652f0c0d3296e4da4a41965701",
     "url": "/index.html"
   },
   {
-    "revision": "46a78af9059bddb314f4a28df5c8e094",
+    "revision": "8b8e696e1e945d926ea37b919fa22b42",
     "url": "/asset-manifest.json"
   }
 ];
